@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-75a1cec3","path":"/unix/4.1%20booting.html","title":"","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1669344753000,"contributors":[{"name":"DavidLiu","email":"l729641074@163.com","commits":1}]},"filePathRelative":"unix/4.1 booting.md"}');export{t as data};

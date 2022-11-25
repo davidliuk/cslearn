@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4eb967d1","path":"/unix/1.1%20basic%20cmd.html","title":"","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1669344753000,"contributors":[{"name":"DavidLiu","email":"l729641074@163.com","commits":1}]},"filePathRelative":"unix/1.1 basic cmd.md"}');export{e as data};
