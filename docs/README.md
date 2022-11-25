@@ -16,3 +16,19 @@
 xxx
 
 # nono
+
+$1^2=1=\frac{1}{1}$
+
+```js
+const a = b;
+```
+
+```java
+int a = 2;
+```
+
+```mermaid
+graph TD:
+    A --> B
+    A --> C
+```
