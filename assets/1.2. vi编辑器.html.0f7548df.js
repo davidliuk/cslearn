@@ -1,4 +1,4 @@
-import{_ as a,o as e,c as s,a as n}from"./app.c6ec1d6c.js";const p={},t=n(`<p>一开始是cmd模式</p><p>输入i(或者a,o)，进入编辑模式</p><div class="language-mermaid line-numbers-mode" data-ext="mermaid"><pre class="language-mermaid"><code><span class="token keyword">graph</span> LR
+import{_ as a,o as e,c as s,e as n}from"./app.760b91a5.js";const p={},t=n(`<p>一开始是cmd模式</p><p>输入i(或者a,o)，进入编辑模式</p><div class="language-mermaid line-numbers-mode" data-ext="mermaid"><pre class="language-mermaid"><code><span class="token keyword">graph</span> LR
 	A<span class="token text string">(cmd)</span> <span class="token arrow operator">--&gt;</span><span class="token label property">|i|</span> B<span class="token text string">(insert)</span>
 	B <span class="token arrow operator">--&gt;</span> <span class="token label property">|esc|</span> A
 	A <span class="token arrow operator">--&gt;</span><span class="token label property">|:|</span> C<span class="token text string">(last line)</span>
