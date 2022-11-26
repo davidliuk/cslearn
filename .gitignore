@@ -2,3 +2,5 @@ node_modules
 .temp
 .cache
 .DS_Store
+.github/workflows/docs.yml.zip
+dist

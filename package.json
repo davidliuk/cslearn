@@ -11,6 +11,8 @@
   "author": "David Liu",
   "license": "ISC",
   "devDependencies": {
-    "vuepress": "^2.0.0-beta.53"
+    "markdown-it-mathjax3": "^4.3.2",
+    "vuepress": "^2.0.0-beta.53",
+    "vuepress-plugin-mermaidjs": "^2.0.0-beta.2"
   }
 }

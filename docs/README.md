@@ -2,16 +2,9 @@
 
 ## I am David
 
-### fuck kory
-
-## I am niuniu
-
-## I am wife
-
-
 ### i love bei
 
-#### hello fuck
+#### hello kory
 
 xxx
 
@@ -27,8 +20,16 @@ const a = b;
 int a = 2;
 ```
 
-```mermaid
-graph TD:
+``` mermaid
+graph TD
     A --> B
     A --> C
+```
+
+``` mermaid
+sequenceDiagram
+Alice->John: Hello John, how are you?
+loop every minute
+    John-->Alice: Great!
+end
 ```
